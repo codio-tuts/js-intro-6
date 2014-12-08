@@ -206,7 +206,7 @@ files:
   - path: "#all"
     action: close
     ref: ""
-  - path: "#cmd: bash .guides/restore.sh 01a-objects"
+  - path: "#terminal: bash .guides/restore.sh 01a-objects"
     action: open
     ref: ""
 editable: false
@@ -329,7 +329,7 @@ files:
   - path: "#all"
     action: close
     ref: ""
-  - path: "#cmd: bash .guides/restore.sh 02-basic"
+  - path: "#terminal: bash .guides/restore.sh 02-basic"
     action: open
     ref: ""
 editable: false
@@ -519,7 +519,7 @@ files:
   - path: "#all"
     action: close
     ref: ""
-  - path: "#cmd: bash .guides/restore.sh 03-location, #preview"
+  - path: "#terminal: bash .guides/restore.sh 03-location, #preview"
     action: open
     ref: ""
 editable: false
@@ -689,7 +689,7 @@ files:
   - path: "#all"
     action: close
     ref: ""
-  - path: "#cmd: bash .guides/restore.sh 04-marker, example.js, #preview"
+  - path: "#terminal: bash .guides/restore.sh 04-marker, example.js, #preview"
     action: open
     ref: ""
 editable: true
